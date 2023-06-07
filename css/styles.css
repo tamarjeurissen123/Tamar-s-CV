@@ -5,6 +5,10 @@
 
 /* Styles for the body */
 
+.art-background {
+	background-color: #CD3639
+}
+
 body {
 font-family: 'Source Sans Pro', sans-serif;
 	color: #202030;
